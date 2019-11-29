@@ -33,6 +33,7 @@ sidebar .sidebar-title img {
 sidebar .sidebar-title h2 {
     font-size: 15px;
     margin-top: 8px;
+    color: #72777a;
 }
 
 div.menu {
@@ -54,7 +55,7 @@ div.menu ul li{
 }
 
 div.menu ul li svg{
-    color: blue;
+    color: 	#01A801;
     font-size: 20px;
 }
 
