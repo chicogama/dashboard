@@ -59,14 +59,14 @@ main .maincontent{
 
 .panel-row button {
     height: 180px;
-    background: linear-gradient(135deg, #6ebefb, #a777e3);
+    background: linear-gradient(135deg, #020303, #e0d424);
     font-size: 25px;
     color: #fff;
 }
 
 .panel-row p {
     height: 180px;
-    background: linear-gradient(135deg, #6ebefb, #a777e3);
+    background: linear-gradient(135deg, #020303, #e0d424);
     font-size: 25px;
     color: #fff;
 }
