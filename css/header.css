@@ -6,15 +6,15 @@
     height: 90px;
     background-color: white;
     padding: 10 30px;
-    border: 1px solid rgba(0, 0, 0,.0625) 
+    border: 1px solid rgba(0, 0, 0, .0625)
 }
 
-.flex-dashboard header a{
+.flex-dashboard header a {
     text-decoration: none;
     color: #72777a;
     margin: 20px;
 }
 
-.flex-dashboard header a > svg{
-    color: #FED700;
+.flex-dashboard header a>svg {
+    color: #01589F;
 }
