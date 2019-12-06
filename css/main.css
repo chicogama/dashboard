@@ -51,7 +51,7 @@ main .maincontent {
 
 .panel-row button {
     height: 180px;
-    background: linear-gradient(135deg, #020303, #e0d424);
+    background: linear-gradient(135deg, #01589F, #FEEF56);
     font-size: 25px;
     color: #fff;
 }
@@ -70,14 +70,38 @@ main .maincontent {
 
 div#ajax-content {
     width: 100%;
-    border: 1px solid red;
-    height: 200px;
     margin-top: 20px;
+    background: white;
+    box-shadow: 0 0 2rem rgba(0, 0, 0, 0.1);
 }
 
 div#monitor {
     width: 100%;
-    border: 1px solid red;
     height: 200px;
     margin-top: 20px;
 }
+
+div#ajax-content button{
+    background: linear-gradient(135deg, #01589F, #FEEF56);
+    color: #fff;
+}
+
+div#ajax-content button:hover{
+    transform: scale(1.05);
+    transition: 0.2s;
+}
+
+div#ajax-content label{
+    font-size: 15px;
+    color: #72777a;
+}
+
+div#ajax-content svg{
+    cursor: pointer;
+}
+
+.conteudo-dinamico{
+    padding: 20px;
+} 
+
+
